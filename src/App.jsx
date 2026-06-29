@@ -19,7 +19,7 @@ import React, { useState } from "react";
 
 // ---------- PLACEHOLDER ASSETS (swap before production) ----------
 const OWNER_PHOTO_URL =
-  "src/hero-image.png"; // placeholder — replace with real owner photo
+  "https://magprotax.org/hero-image.jpg"; // placeholder — replace with real owner photo
 const PRODUCT_IMAGES = [
   "https://images.unsplash.com/photo-1551028719-00167b16eac5?q=80&w=800&auto=format&fit=crop",
   "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?q=80&w=800&auto=format&fit=crop",
